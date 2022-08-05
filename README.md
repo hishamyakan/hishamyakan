@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 I am Computer Engineering student and my passion is Software Developement and Embedded Systems.
 
 <br>
-<br>
+
 
 
 ### <ins> <b>My Social Links <b>:</ins>
@@ -38,14 +38,14 @@ I am Computer Engineering student and my passion is Software Developement and Em
 </div>
 
 <br>
-<br>
+
 
 ### <ins> <b> My Contacts <b>:</ins><br/>
 
 📫 - You can reach me through this mail: hisham.yakan12@gmail.com
 
 <br>
-<br>
+
 
 ### <ins> <b>Technologies I work with <b>:</ins>
 <div>
