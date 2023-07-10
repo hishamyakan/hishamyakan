@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  Hey There 👋
 
 
-I am Computer Engineering student and my passion is Software Developement and Embedded Systems.
+I am Computer Engineering graduate and my passion is Software Developement and Embedded Systems.
 
 <br>
 
